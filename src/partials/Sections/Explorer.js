@@ -19,76 +19,76 @@ function Bottom() {
       <div class="self-center text-center w-full px-20 pt-10">
 
         <div className="grid grid-cols-8 grid-flow-row gap-6 ">
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
-          <div className={"col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"}>
+          <div className={"sm:col-span-2 md:col-span-1"}>
             <img src="/img/nft1.png" alt="nft1" />
           </div>
           

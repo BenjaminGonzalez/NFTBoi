@@ -18,8 +18,6 @@ function QandA(num, question, answer){
 
 function FAQ() {
 
-
-    
   return (
     <div
       id="roadmap"
@@ -32,8 +30,8 @@ function FAQ() {
         <div class="text-left">
 
         {QandA("1", "How can I buy a FACE.PNG", "Head over to OpenSea and purchase there")}
-        {QandA("1", "How were the faces created?", "Each Doge Pound has constructed algorithmically by mixing a variety of properties with different possibilities.")}
-        {QandA("2", "What is the smart contract adderess of the FACE.HQ?", "Verified smart contract address: 0xF")}
+        {QandA("2", "How were the faces created?", "Each Doge Pound has constructed algorithmically by mixing a variety of properties with different possibilities.")}
+        {QandA("3", "What is the smart contract adderess of the FACE.HQ?", "Verified smart contract address: 0xF")}
 
         </div>
       </div>

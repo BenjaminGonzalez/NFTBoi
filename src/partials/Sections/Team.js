@@ -19,28 +19,28 @@ function Team() {
         <div className="grid grid-cols-4 grid-flow-row gap-6 ">
           <div
             className={
-              "col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
+              "col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
             }
           >
             <img src="/img/nft1.png" alt="nft1" />
           </div>
           <div
             className={
-              "col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
+              "col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
             }
           >
             <img src="/img/nft1.png" alt="nft1" />
           </div>
           <div
             className={
-              "col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
+              "col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
             }
           >
             <img src="/img/nft1.png" alt="nft1" />
           </div>
           <div
             className={
-              "col-span-full xl:col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
+              "col-span-1 row-span-1 bg-white shadow-lg rounded-sm border border-gray-200"
             }
           >
             <img src="/img/nft1.png" alt="nft1" />
