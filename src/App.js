@@ -2,6 +2,10 @@ import "./App.css";
 import Footer from "./partials/footer";
 import NavBar from "./partials/navbar";
 import Top from "./partials/Sections/Top";
+import RoadMap from "./partials/Sections/RoadMap";
+import FAQ from "./partials/Sections/Faq";
+import Team from "./partials/Sections/Team";
+import Explorer from "./partials/Sections/Explorer";
 
 function App() {
   return (
@@ -23,6 +27,10 @@ function App() {
       <div className="relative flex flex-col flex-1 overflow-y-auto overflow-x-hidden">
         <NavBar />
         <Top />
+        <RoadMap />
+        <Explorer />
+        <Team />
+        <FAQ />
         <Footer />
       </div>
     </div>

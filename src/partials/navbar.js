@@ -1,56 +1,46 @@
-function navToggle() {
-  let btn = document.getElementById('menuBtn');
-  let nav = document.getElementById('menu');
-
-  btn.classList.toggle('open');
-  nav.classList.toggle('flex');
-  nav.classList.toggle('hidden');
-}
+import React from "react";
 
 function NavBar() {
 
-
   return (
-    <nav class="flex flex-col sm:flex-row w-full justify-between items-center px-4 sm:px-6 py-1 bg-white sm:bg-transparent shadow sm:shadow-none border-t-4 border-pink-600">
+    <nav class="z-0 flex flex-col sm:flex-row w-full justify-between items-center px-4 sm:px-6 py-1 bg-white sm:bg-transparent shadow sm:shadow-none border-t-4 border-pink">
       <div class="w-full sm:w-auto self-start sm:self-center flex flex-row sm:flex-none flex-no-wrap justify-between items-center">
         <a href="{{ .Site.BaseURL }}" class="no-underline">
-          {/* <img src="/img/logo.svg" alt="AWE.SOME Logo" class="h-12 py-1"> */}
+          <img src="/img/FACE.svg" alt="FACE.PNG Logo" class="h-12 py-1" /> 
         </a>
-        <button
-          id="menuBtn"
-          class="hamburger block sm:hidden focus:outline-none"
-          type="button"
-          onclick={navToggle()}
-          aria-label="Show Menu"
-        >
-          <span class="hamburger__top-bun"></span>
-          <span class="hamburger__bottom-bun"></span>
-        </button>
+        
       </div>
-      <div
-        id="menu"
-        class="w-full sm:w-auto self-end sm:self-center hidden sm:flex flex-col sm:flex-row items-center h-full py-1 pb-4 sm:py-0 sm:pb-0"
-      >
-        <a
-          class="text-gray-800 font-bold hover:text-pink-600 text-lg text-center w-full no-underline sm:w-auto sm:pr-4 py-2 sm:py-1"
-          href="{{ if .IsHome }}#about{{ else }}{{ .Site.BaseURL }}#about{{ end }}"
+ 
+        <div
+          id="menu"
+          class={`w-full sm:w-auto self-end sm:self-center sm:flex flex-col sm:flex-row items-center h-full py-1 pb-4 sm:py-0 sm:pb-0 hidden`}
         >
-          About
-        </a>
-        <a
-          class="text-gray-800 font-bold hover:text-pink-600 text-lg text-center w-full no-underline sm:w-auto sm:px-4 py-2 sm:py-1"
-          href="{{ if .IsHome }}#features{{ else }}{{ .Site.BaseURL }}#features{{ end }}"
-        >
-          RoadMap
-        </a>
-        <span
-          id="follow"
-          class="hidden sm:inline-block text-gray-800 font-bold hover:text-pink-600 text-lg sm:w-auto sm:px-4 sm:py-1 cursor-pointer"
-        >
-          NFT Explorer
-        </span>
-
-      </div>
+          <a
+            class="text-gray-800 font-bold hover:text-pink text-lg text-center w-full no-underline sm:w-auto sm:pr-4 py-2 sm:py-1"
+            href="#home"
+          >
+            About
+          </a>
+          <a
+            class="text-gray-800 font-bold hover:text-pink text-lg text-center w-full no-underline sm:w-auto sm:px-4 py-2 sm:py-1 sm:px-5"
+            href="#roadmap"
+          >
+            RoadMap
+          </a>
+          <a
+            class="hidden sm:inline-block text-gray-800 font-bold hover:text-pink text-lg sm:w-auto sm:px-4 sm:py-1 cursor-pointer"
+            href="#explore"
+          >
+            NFT Explorer
+            </a>
+            <a
+            class="hidden sm:inline-block text-gray-800 font-bold hover:text-pink text-lg sm:w-auto sm:px-4 sm:py-1 cursor-pointer"
+            href="#team"
+          >
+            Team
+            </a>
+        </div>
+      
     </nav>
   );
 }

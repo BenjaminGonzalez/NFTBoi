@@ -5,60 +5,60 @@ function Footer() {
         <ul class="list-none">
           <li>
             <a
-              class="text-gray-800 hover:text-pink-600 no-underline"
-              href="#about"
+              class="text-gray-800 hover:text-pink no-underline"
+              href="#home"
             >
-              About
+              Home
             </a>
           </li>
           <li>
             <a
-              class="text-gray-800 hover:text-pink-600 no-underline"
+              class="text-gray-800 hover:text-pink no-underline"
               href="#features"
             >
-              Features
+              Team
             </a>
           </li>
         </ul>
       </div>
-      <div class="h-px sm:h-auto w-1/2 sm:w-px bg-pink-600 mx-auto sm:mx-0"></div>
+      <div class="h-px sm:h-auto w-1/2 sm:w-px bg-pink mx-auto sm:mx-0"></div>
       <div class="text-center px-8 py-4">
         <ul class="list-none">
           <li>
             <a
-              class="text-gray-800 hover:text-pink-600 no-underline"
+              class="text-gray-800 hover:text-pink no-underline"
               href="#about"
             >
-              About
+              RoadMap
             </a>
           </li>
           <li>
             <a
-              class="text-gray-800 hover:text-pink-600 no-underline"
+              class="text-gray-800 hover:text-pink no-underline"
               href="#features"
             >
-              Features
+              Socials
             </a>
           </li>
         </ul>
       </div>
-      <div class="h-px sm:h-auto w-1/2 sm:w-px bg-pink-600 mx-auto sm:mx-0"></div>
+      <div class="h-px sm:h-auto w-1/2 sm:w-px bg-pink mx-auto sm:mx-0"></div>
       <div class="text-center pl-0 sm:pl-8 py-4">
         <ul class="list-none">
           <li>
             <a
-              class="text-gray-800 hover:text-pink-600 no-underline"
+              class="text-gray-800 hover:text-pink no-underline"
               href="/privacy"
             >
-              Privacy
+              NFT Explorer
             </a>
           </li>
           <li>
             <a
-              class="text-gray-800 hover:text-pink-600 no-underline"
+              class="text-gray-800 hover:text-pink no-underline"
               href="/imprint"
             >
-              Imprint
+              Privacy
             </a>
           </li>
         </ul>
