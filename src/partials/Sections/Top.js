@@ -47,7 +47,7 @@ function Top() {
                     <h2 class="font-bold tracking-widest text-pink-600 text-4xl">Dopest Non-Doge NFT Out:</h2>
                     <span class="content__container block font-light text-browngray text-3xl my-6">
                     </span>
-                    <p class="font-bold tracking-widest text-4xl">FACE.PNG</p>
+                    <p class="font-bold tracking-widest text-4xl">FACE.PNG</p> 
                     <p class="pt-10">
                         The Doge Pound is 10,000 art pieces carefully chosen by Professor Elon. A unique digital collection of diverse NFTs lying on Ethereum Blockchain. Each one is thoughtfully designed, specifically picked, and impeccably shaped. Join us on our adventure and have a good time. Having a Doge Token grants you creative and commercial rights, as well as inclusion in the gang.
                     </p>
